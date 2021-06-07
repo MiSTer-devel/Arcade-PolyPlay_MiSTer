@@ -207,7 +207,7 @@ localparam CONF_STR = {
 	"R0,Reset and close OSD;",
 	"J1,Button 1,Coin;",
 	"jn,A,R;",
-	"jp,B,Select;",
+	"jp,B,R;",
 	"V,v",`BUILD_DATE 
 };
 
